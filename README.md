@@ -6,7 +6,7 @@ _Gender:Genderfluid_
 ---
 Pronouns:Any(take your pick I do not care)
 ------
-School:Telecommucations in arts and technolodgy.
+School:High School of Telecommunication Arts and Technology.
 ----
 
 ## List of interest:
